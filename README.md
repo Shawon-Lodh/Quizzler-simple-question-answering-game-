@@ -4,7 +4,7 @@
 
 A simple quiz app that tests the general knowledge which has beautiful ui with view of answer correction. 
 
-![Finished App](https://github.com/Shawon-Lodh/Quizzler-simple-question-answering-game-/blob/main/quizzler.gif)
+![Finished App](https://github.com/Shawon-Lodh/Quizzler/blob/main/quizzler.gif)
 
 ## Language
 - Dart
