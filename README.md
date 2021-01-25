@@ -4,7 +4,7 @@
 
 A simple quiz app that tests the general knowledge which has beautiful ui with view of answer correction. 
 
-![Finished App](https://github.com/Shawon-Lodh/Quizzler/blob/main/quizzler.gif)
+![Finished App](https://github.com/Shawon-Lodh/Quizzler-simple-question-answering-game-/blob/main/quizzler.gif)
 
 ## Language
 - Dart
@@ -18,3 +18,5 @@ A simple quiz app that tests the general knowledge which has beautiful ui with v
 - Using lists.
 - seperate the constant (varibale,widgets) class.
 - suitable use of final modifier.
+
+N.B : The IDE which is used to create this readme file is found [here](https://dillinger.io/).
