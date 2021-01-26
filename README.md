@@ -8,6 +8,10 @@ A simple quiz app that tests the general knowledge which has beautiful ui with v
 
 ## Language
 - Dart
+## SDK
+- Flutter
+## Platform
+- Android,IOS
 
 ## Strengths
 - Modularising the code into separate classes.
